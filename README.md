@@ -14,6 +14,8 @@ What are Ural-Altaic languages: https://en.wikipedia.org/wiki/Ural-Altaic_langua
 
 Glosbe multilingual online dictionary: https://glosbe.com/
 
+**I'm currently translating a Yakut(Sakha) language learning guide into Chinese, and I uploaded its latest version here.**
+
 **Outline**
 - [Links and Databases for Ural-Altaic Languages](#links-and-databases-for-ural-altaic-languages)
   - [Ural languages](#ural-languages)
